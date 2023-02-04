@@ -1,1 +1,2 @@
 feature for future build app
+|-add new functions
